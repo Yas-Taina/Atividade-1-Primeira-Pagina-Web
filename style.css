@@ -15,7 +15,6 @@ header{
 #navit{
 	background-color: #ffffff;
 	text-align: center;
-	font-size: 15px;
 	border-bottom: 2px solid #8d4444;
 	margin-bottom: 5vw;
 }
@@ -79,8 +78,8 @@ ul {
 
 #contato{
 	margin-top: 50px;
-	margin-left: 20vw;
-	margin-right: 20vw;
+	margin-left: 10vw;
+	margin-right: 10vw;
 	border: 5px solid white;
 	border-radius: 15px;
 }
